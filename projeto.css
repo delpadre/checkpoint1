@@ -5,13 +5,14 @@
 }
 
 body{
+ 
     background-color:  #707070;
-    background-image: url('img/');
     background-repeat: no-repeat;
     background-size: cover;
     .paragraph {
         font-family: Arial, Helvetica, sans-serif;
      }
+ 
 
 }
 h1{ 
@@ -25,4 +26,8 @@ h1{
     text-transform: uppercase;
     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
     font-family: 'Roboto', sans-serif; 
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
 }
