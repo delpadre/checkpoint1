@@ -9,6 +9,10 @@ body{
     background-image: url('img/');
     background-repeat: no-repeat;
     background-size: cover;
+    .paragraph {
+        font-family: Arial, Helvetica, sans-serif;
+     }
+
 }
 h1{ 
     /*tamanho da fonte*/
@@ -19,7 +23,6 @@ h1{
     text-align: center;
     /*deixar texto maiusculo*/
     text-transform: uppercase;
-    
     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
     font-family: 'Roboto', sans-serif; 
 }
