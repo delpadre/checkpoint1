@@ -1,7 +1,7 @@
 /*Configuração global*/
 *{
-    margin: 0;
-    padding: 0;
+    margin: 1;
+    padding: 1;
 }
 
 body{
@@ -31,3 +31,7 @@ h1{
 h2{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+input {
+    margin-right: 5px;
+    }
