@@ -10,29 +10,16 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-h1{
+h1{ 
     /*tamanho da fonte*/
     font-size: 30px;
     /*cor da fonte*/
-    color: red;
+    color: #fff;
     /*centralizar texto*/
     text-align: center;
     /*deixar texto maiusculo*/
     text-transform: uppercase;
-}
-#titulo1{
-    <style> @import url ('https://fonts.googleapis.com/css2?family=Anton&display=swap');
-    </style>
-    color:rgb(255,0,255);
-    font-size: 35px;
-    text-align: left;
-    text-transform: uppercase;
-    font-family:'Anton';
-}
-.titulo2{
-    color: #fff00f;
-    font-size:  32px;
-    text-align: right;
-    text-transform: uppercase;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+    font-family: 'Roboto', sans-serif; 
 }
