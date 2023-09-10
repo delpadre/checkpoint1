@@ -83,3 +83,14 @@ input {
     float: left;
     margin-bottom: 250px;
 }
+
+footer h3 {
+    text-align: center;
+    color: red
+}
+
+footer {
+    width: 100%;
+    height: 50%;
+    margin-top: 15rem;
+}
