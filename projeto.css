@@ -45,19 +45,41 @@ input {
     margin-right: 5px;
 }
 
-.texto2{
+.texto2 {
     display: block;
     font-size: 16px;
-    text-align: left;
+    text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
 }
-.texto2 p{
+
+.texto2 p {
     width: 50%;
-    
+
 
 }
-#imagem2{
+
+#imagem2 {
     width: 50px;
     height: 50px;
     float: right;
+}
+
+.texto3 {
+    font-size: 16px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+}
+
+.texto3 p {
+    width: 50%;
+    float: right;
+}
+
+
+#imagem3 {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-bottom: 250px;
 }
